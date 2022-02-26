@@ -1,6 +1,5 @@
 import pyautogui
 import time
-#import rich.progress
 from rich.progress import track
 
 print("         MAAC\n       ver. 0.5\n    Made By AN1BL0\n\n")
